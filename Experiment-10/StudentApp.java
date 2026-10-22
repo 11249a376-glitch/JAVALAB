@@ -23,6 +23,7 @@ public class StudentApp {
 /*
 User Input:
 101
+
 Sample Output:
 Register number to search : 101 Aravind 78
 1 row(s) affected.
